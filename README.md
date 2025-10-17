@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ex.06 Book Front Cover Page Design 
 ## Date: 12.10.2025 
 ## AIM: 
@@ -22,6 +23,7 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost. 
  
 ## PROGRAM: 
+```
 <!DOCTYPE html> 
 <html lang="en"> 
 <head> 
@@ -66,7 +68,8 @@ Publish the website in the LocalHost.
     </div> 
 </body> 
 </html> 
- 
+ ```
+
 ## OUTPUT: 
  ![alt text](image.png)
  
